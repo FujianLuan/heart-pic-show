@@ -1,0 +1,21 @@
+.index{
+    overflow: hidden;
+}
+.btn-wrap {
+    margin: 0 auto;
+    width: 88%;
+}
+button {
+    margin-top: 20rpx;
+    margin-bottom: 10rpx;
+}
+.icon-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .icon-box-ctn{
+        color: #666;
+        font-size: 22rpx;
+        margin-left: 30rpx;
+    }
+}
